@@ -1,2 +1,2 @@
-# ISSEM Kanban Project
-This repository contains Kanban board's under projects
+# ISSEM Kanban
+Cybersecurity project management repository using Kanban boards to organize ISSEM tasks, risk assessment work, and security engineering deliverables.
